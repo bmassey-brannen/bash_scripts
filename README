@@ -8,9 +8,9 @@ The script in this folder iterated through all of the zip file names and extract
 
 The script goes through and creates a folder for "Ceremony", "Reception", etc... and puts the photos in the correct folder
 
-Step 1: cd into the directory that contains the zip_extract file
-step 2: chmod +x the script "chmod +x zip_extract"
-step 3: run the script ./zip_extract.sh
+Step 1: cd into the directory that contains the Zip_Extract file
+step 2: chmod +x the script "chmod +x Zip_Extract"
+step 3: run the script ./Zip_Extract.sh
 
 To give you an insight into ALL of the zip files I was given, they are listed below. 
 
