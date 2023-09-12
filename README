@@ -1,0 +1,69 @@
+Following my wedding, my wife and I recieved almost 3,000 photos broken out in almost 60 different zip files. 
+
+Not only was this a huge storage grab, it was an extremely mundane and tedious task if we were to extract 
+each one individually and then sort them to the correct folder.
+
+The script in this folder iterated through all of the zip file names and extracted the photos to the correct folder. 
+
+
+To give you an insight into ALL of the zip files I was given, they are listed below. 
+The script goes through and creates a folder for "Ceremony", "Reception", etc... and puts the photos in the correct folder
+Ceremony-1.zip
+Ceremony-2.zip
+Ceremony-3.zip
+Ceremony-4.zip
+Ceremony-5.zip
+Ceremony-6.zip
+Ceremony-7.zip
+Ceremony-8.zip
+Ceremony-9.zip
+Ceremony-10.zip
+Ceremony-11.zip
+Engagements-1.zip
+Engagements-2.zip
+Preparation-1.zip
+Preparation-2.zip
+Preparation-3.zip
+Preparation-4.zip
+Preparation-5.zip
+Preparation-6.zip
+Preparation-7.zip
+Preparation-8.zip
+Preparation-9.zip
+Preparation-10.zip
+Preparation-11.zip
+Preparation-12.zip
+Preparation-13.zip
+Preparation-14.zip
+Preparation-15.zip
+Preparation-16.zip
+Preparation-17.zip
+Reception-1.zip
+Reception-2.zip
+Reception-3.zip
+Reception-4.zip
+Reception-5.zip
+Reception-6.zip
+Reception-7.zip
+Reception-8.zip
+Reception-9.zip
+Reception-10.zip
+Reception-11.zip
+Reception-12.zip
+Reception-13.zip
+Reception-14.zip
+Reception-15.zip
+Reception-16.zip
+Reception-17.zip
+Reception-18.zip
+Reception-19.zip
+Reception-20.zip
+Reception-21.zip
+Reception-22.zip
+Reception-23.zip
+Reception-24.zip
+Reception-25.zip
+Rehearsal-1.zip
+Rehearsal-2.zip
+Rehearsal-3.zip
+Rehearsal-4.zip
