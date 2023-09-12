@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Define the directory containing the zip files
-ZIP_DIR="/Volumes/ZIPFILES/Wedding Photos/Zips"  # Replace with the path where your zip files are located
+ZIP_DIR="/<SOURCE PATH>"  # Replace with the path where your zip files are located
 
 # Define the destination directory on the USB drive
-USB_DEST="/Volumes/WEDDING_2"  # Replace 'username' with your Linux username/Volumes/Seagate Portable Drive
+USB_DEST="/<TARGET PATH>"  # I used unix and a usb so my path was /Volumes/<USB PATH>
 
 # Navigate to the directory with the zip files
 cd "$ZIP_DIR"
@@ -25,4 +25,4 @@ done
 
 echo "Files have been extracted to their respective folders on the USB drive."
 
-#chmod +x extracter.sh
+#chmod +x Zip_Extract.sh
